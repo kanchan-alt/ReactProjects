@@ -1,0 +1,43 @@
+.nav__contents {
+    display: flex;
+    justify-content: space-between;
+    background-color: #111;
+  
+   
+
+}
+
+.nav__black{
+    background-color:red;
+
+}
+
+.nav__logo{
+    border: 1px solid rebeccapurple;
+    width: 14%;
+    position: fixed;
+    left: 0;
+    object-fit: contain;
+    padding-left: 20px;
+    cursor: pointer;
+  
+   
+   
+}
+
+.nav__avatar{
+    cursor: pointer;
+    width: 5%;
+    position: fixed;
+    right: 20px;
+   
+  
+}
+
+
+ // https://wallpapercave.com/wp/wp8741529.jpg
+
+ https://www.citypng.com/public/uploads/preview/-11594687246vzsjesy7bd.png
+
+ https://github.com/noelkn18/netflix/blob/master/netflix-clone/src/Nav.js
+
